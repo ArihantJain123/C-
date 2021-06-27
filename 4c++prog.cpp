@@ -2,6 +2,7 @@
 #include<math.h>
 #include<stdlib.h>
 
+// this one is a c++ program 
 using namespace std;
 int main()
 {
