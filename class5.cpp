@@ -1,7 +1,7 @@
 #include<iostream>
 #include<stdlib.h>
 #include<stdio.h>
-//new 
+//new here 
 using namespace std;
 class RESORT {
 
