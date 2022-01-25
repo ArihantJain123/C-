@@ -1,6 +1,6 @@
 #include<iostream>
 #include<stdlib.h>
-
+// new here
 using namespace std;
 class A {
            int codeno;
