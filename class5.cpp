@@ -16,7 +16,7 @@ class RESORT {
 
 
 
-};
+};//..
 void RESORT :: Getinfo()
 {
     cin>>Rno;
