@@ -3,7 +3,7 @@
 
 
 using namespace std;
-// linear search 
+// linear search here
 int Lsearch(int[],int,int);
 int main()
 {
