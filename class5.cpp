@@ -1,7 +1,7 @@
 #include<iostream>
 #include<stdlib.h>
 #include<stdio.h>
-//new here random.//....//...
+//new here random.//....//...hey 
 using namespace std;
 class RESORT {
 
