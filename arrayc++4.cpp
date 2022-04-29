@@ -1,6 +1,6 @@
 #include<iostream>
 //new
-
+//.
 
 using namespace std;
 // linear search here
