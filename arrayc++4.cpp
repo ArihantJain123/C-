@@ -1,7 +1,6 @@
 #include<iostream>
 //new..
-//...
-
+//.....
 using namespace std;
 // linear search here
 int Lsearch(int[],int,int);
