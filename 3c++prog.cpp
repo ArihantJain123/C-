@@ -1,6 +1,6 @@
 #include<iostream>
 #include<stdlib.h>
-//new code hello g yeh ...........
+//new code hello g yeh .............
 
 using namespace std;
 
