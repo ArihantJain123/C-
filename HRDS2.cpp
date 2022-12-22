@@ -1,6 +1,6 @@
 #include <iostream>
 #include <sstream>
-//hello ..........
+//hello .............
 using namespace std;
 
 class Student{
